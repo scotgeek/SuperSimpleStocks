@@ -1,0 +1,599 @@
+20 Dec 2015 15:39:59 - ------- Job Started -------
+20 Dec 2015 15:39:59 - Checking Size of Log File
+20 Dec 2015 15:39:59 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 15:40:00 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 15:40:00 - Calculating Yields and Ratios
+20 Dec 2015 15:40:00 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 15:40:00 - Common Dividend Yield for TEA is 0
+20 Dec 2015 15:40:00 - P/E Ratio for TEA is 0
+20 Dec 2015 15:40:00 - Common Dividend Yield for POP is .1429
+20 Dec 2015 15:40:00 - P/E Ratio for POP is 7
+20 Dec 2015 15:40:00 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 15:40:00 - P/E Ratio for ALE is 8.74
+20 Dec 2015 15:40:00 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 15:40:00 - P/E Ratio for GIN is 12
+20 Dec 2015 15:40:00 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 15:40:00 - P/E Ratio for JOE is 7.77
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - BOUGHT 322 Shares of JPM at 32.1503
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - SOLD 71 Shares of JPM at 7.0677
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - BOUGHT 625 Shares of JPM at 62.4667
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - SOLD 732 Shares of JPM at 73.2647
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - BOUGHT 482 Shares of JPM at 48.1821
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:00 - SOLD 534 Shares of JPM at 53.416
+20 Dec 2015 15:40:00 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 284 Shares of JPM at 28.3335
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 33 Shares of JPM at 3.2509
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 228 Shares of JPM at 22.7694
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 781 Shares of JPM at 78.1684
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 976 Shares of JPM at 97.6868
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 531 Shares of JPM at 53.0858
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 921 Shares of JPM at 92.1228
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 117 Shares of JPM at 11.6412
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 670 Shares of JPM at 67.0402
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 225 Shares of JPM at 22.4392
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 420 Shares of JPM at 41.9577
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 973 Shares of JPM at 97.3566
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 528 Shares of JPM at 52.7556
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 559 Shares of JPM at 55.9121
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 277 Shares of JPM at 27.6731
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 308 Shares of JPM at 30.8295
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 26 Shares of JPM at 2.5905
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - SOLD 221 Shares of JPM at 22.109
+20 Dec 2015 15:40:01 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:01 - BOUGHT 416 Shares of JPM at 41.6275
+20 Dec 2015 15:40:01 - Calculating Stock Price
+20 Dec 2015 15:40:01 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:38:00
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:35:00
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:28:00
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:32:01
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:29:01
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:29:01
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:34:01
+20 Dec 2015 15:40:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:27:01
+20 Dec 2015 15:40:01 - Calculating Geometric Mean
+20 Dec 2015 15:40:01 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 15:40:01 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 15:40:02 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 15:40:02 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 15:40:02 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 15:40:02 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 15:40:02 - Reading array list values
+20 Dec 2015 15:40:02 - Calculating Geometric Mean
+20 Dec 2015 15:40:02 - Geometric Mean = 4.93
+20 Dec 2015 15:40:03 - ------- Job Completed -------
+20 Dec 2015 15:40:08 - ------- Job Started -------
+20 Dec 2015 15:40:08 - Checking Size of Log File
+20 Dec 2015 15:40:08 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 15:40:08 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 15:40:08 - Calculating Yields and Ratios
+20 Dec 2015 15:40:08 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 15:40:08 - Common Dividend Yield for TEA is 0
+20 Dec 2015 15:40:08 - P/E Ratio for TEA is 0
+20 Dec 2015 15:40:08 - Common Dividend Yield for POP is .1429
+20 Dec 2015 15:40:08 - P/E Ratio for POP is 7
+20 Dec 2015 15:40:08 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 15:40:08 - P/E Ratio for ALE is 8.74
+20 Dec 2015 15:40:08 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 15:40:08 - P/E Ratio for GIN is 12
+20 Dec 2015 15:40:09 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 15:40:09 - P/E Ratio for JOE is 7.77
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 838 Shares of JPM at 83.8678
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 588 Shares of JPM at 58.7853
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 501 Shares of JPM at 50.0647
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 250 Shares of JPM at 24.9822
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 282 Shares of JPM at 28.1386
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 31 Shares of JPM at 3.0561
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 584 Shares of JPM at 58.4551
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 334 Shares of JPM at 33.3725
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 529 Shares of JPM at 52.891
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 278 Shares of JPM at 27.8084
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 832 Shares of JPM at 83.2074
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 581 Shares of JPM at 58.1249
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 136 Shares of JPM at 13.5239
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - SOLD 526 Shares of JPM at 52.5608
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:09 - BOUGHT 243 Shares of JPM at 24.3218
+20 Dec 2015 15:40:09 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - SOLD 828 Shares of JPM at 82.8772
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - BOUGHT 24 Shares of JPM at 2.3957
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - SOLD 773 Shares of JPM at 77.3132
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - BOUGHT 327 Shares of JPM at 32.7121
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - SOLD 240 Shares of JPM at 23.9916
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - BOUGHT 630 Shares of JPM at 63.0286
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - SOLD 825 Shares of JPM at 82.547
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - BOUGHT 380 Shares of JPM at 37.946
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - SOLD 770 Shares of JPM at 76.983
+20 Dec 2015 15:40:10 - Running BUY/SELL Transactions
+20 Dec 2015 15:40:10 - BOUGHT 324 Shares of JPM at 32.3819
+20 Dec 2015 15:40:10 - Calculating Stock Price
+20 Dec 2015 15:40:10 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:36:09
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:38:09
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:33:09
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:36:09
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:33:09
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:26:10
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:38:10
+20 Dec 2015 15:40:10 - Stock Price record selected with a Date/Time of 20 Dec 2015 15:26:10
+20 Dec 2015 15:40:10 - Calculating Geometric Mean
+20 Dec 2015 15:40:10 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 15:40:10 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 15:40:10 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 15:40:10 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 15:40:10 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 15:40:11 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 15:40:11 - Reading array list values
+20 Dec 2015 15:40:11 - Calculating Geometric Mean
+20 Dec 2015 15:40:11 - Geometric Mean = 4.93
+20 Dec 2015 15:40:12 - ------- Job Completed -------
+20 Dec 2015 17:07:00 - ------- Job Started -------
+20 Dec 2015 17:07:00 - Checking Size of Log File
+20 Dec 2015 17:07:00 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 17:07:00 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 17:07:00 - Calculating Yields and Ratios
+20 Dec 2015 17:07:00 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 17:07:00 - Common Dividend Yield for TEA is 0
+20 Dec 2015 17:07:00 - P/E Ratio for TEA is 0
+20 Dec 2015 17:07:00 - Common Dividend Yield for POP is .1429
+20 Dec 2015 17:07:00 - P/E Ratio for POP is 7
+20 Dec 2015 17:07:00 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 17:07:00 - P/E Ratio for ALE is 8.74
+20 Dec 2015 17:07:00 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 17:07:00 - P/E Ratio for GIN is 12
+20 Dec 2015 17:07:00 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 17:07:00 - P/E Ratio for JOE is 7.77
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 838 Shares of JPM at 83.8653
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - SOLD 393 Shares of JPM at 39.2643
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 424 Shares of JPM at 42.4208
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - SOLD 337 Shares of JPM at 33.7003
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 532 Shares of JPM at 53.2187
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - SOLD 87 Shares of JPM at 8.6177
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 640 Shares of JPM at 64.0167
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - SOLD 835 Shares of JPM at 83.5352
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 389 Shares of JPM at 38.9341
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - SOLD 584 Shares of JPM at 58.4526
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:00 - BOUGHT 139 Shares of JPM at 13.8516
+20 Dec 2015 17:07:00 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 692 Shares of JPM at 69.2506
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 83 Shares of JPM at 8.2875
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 637 Shares of JPM at 63.6865
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 832 Shares of JPM at 83.205
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 386 Shares of JPM at 38.6039
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 940 Shares of JPM at 94.0029
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 136 Shares of JPM at 13.5214
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 526 Shares of JPM at 52.5583
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 80 Shares of JPM at 7.9573
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 470 Shares of JPM at 46.9943
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 383 Shares of JPM at 38.2737
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 773 Shares of JPM at 77.3107
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - SOLD 327 Shares of JPM at 32.7097
+20 Dec 2015 17:07:01 - Running BUY/SELL Transactions
+20 Dec 2015 17:07:01 - BOUGHT 881 Shares of JPM at 88.1086
+20 Dec 2015 17:07:01 - Calculating Stock Price
+20 Dec 2015 17:07:01 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 16:55:00
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:00:00
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:03:00
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:04:00
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 16:55:01
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:04:01
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:00:01
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 16:57:01
+20 Dec 2015 17:07:01 - Stock Price record selected with a Date/Time of 20 Dec 2015 16:52:01
+20 Dec 2015 17:07:01 - Calculating Geometric Mean
+20 Dec 2015 17:07:01 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 17:07:01 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 17:07:01 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 17:07:01 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 17:07:02 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 17:07:02 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 17:07:02 - Reading array list values
+20 Dec 2015 17:07:02 - Calculating Geometric Mean
+20 Dec 2015 17:07:02 - Geometric Mean = 4.93
+20 Dec 2015 17:07:03 - ------- Job Completed -------
+20 Dec 2015 17:13:35 - ------- Job Started -------
+20 Dec 2015 17:13:35 - Checking Size of Log File
+20 Dec 2015 17:13:35 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 17:13:35 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 17:13:35 - Calculating Yields and Ratios
+20 Dec 2015 17:13:35 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 17:13:35 - Common Dividend Yield for TEA is 0
+20 Dec 2015 17:13:35 - P/E Ratio for TEA is 0
+20 Dec 2015 17:13:35 - Common Dividend Yield for POP is .1429
+20 Dec 2015 17:13:35 - P/E Ratio for POP is 7
+20 Dec 2015 17:13:35 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 17:13:35 - P/E Ratio for ALE is 8.74
+20 Dec 2015 17:13:35 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 17:13:35 - P/E Ratio for GIN is 12
+20 Dec 2015 17:13:35 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 17:13:35 - P/E Ratio for JOE is 7.77
+20 Dec 2015 17:13:35 - Running BUY/SELL Transactions
+20 Dec 2015 17:13:53 - BOUGHT 703 Shares of JPM at 70.3206
+20 Dec 2015 17:13:56 - Running BUY/SELL Transactions
+20 Dec 2015 17:13:58 - SOLD 844 Shares of JPM at 84.4081
+20 Dec 2015 17:13:58 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:10 - BOUGHT 368 Shares of JPM at 36.8353
+20 Dec 2015 17:14:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:11 - SOLD 943 Shares of JPM at 94.3016
+20 Dec 2015 17:14:11 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:11 - BOUGHT 379 Shares of JPM at 37.912
+20 Dec 2015 17:14:11 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:12 - SOLD 839 Shares of JPM at 83.9301
+20 Dec 2015 17:14:12 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:13 - BOUGHT 972 Shares of JPM at 97.2241
+20 Dec 2015 17:14:13 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:14 - SOLD 822 Shares of JPM at 82.2791
+20 Dec 2015 17:14:14 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:14 - BOUGHT 565 Shares of JPM at 56.5361
+20 Dec 2015 17:14:14 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:15 - SOLD 590 Shares of JPM at 59.0322
+20 Dec 2015 17:14:15 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:16 - BOUGHT 138 Shares of JPM at 13.7708
+20 Dec 2015 17:14:16 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:16 - SOLD 685 Shares of JPM at 68.5094
+20 Dec 2015 17:14:16 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:17 - BOUGHT 233 Shares of JPM at 23.2479
+20 Dec 2015 17:14:17 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:18 - SOLD 585 Shares of JPM at 58.4681
+20 Dec 2015 17:14:18 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - BOUGHT 359 Shares of JPM at 35.8816
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - SOLD 226 Shares of JPM at 22.5383
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - BOUGHT 421 Shares of JPM at 42.0567
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - SOLD 616 Shares of JPM at 61.5752
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - BOUGHT 811 Shares of JPM at 81.0937
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - SOLD 529 Shares of JPM at 52.8547
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - BOUGHT 724 Shares of JPM at 72.3732
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:22 - SOLD 278 Shares of JPM at 27.7722
+20 Dec 2015 17:14:22 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:23 - BOUGHT 473 Shares of JPM at 47.2906
+20 Dec 2015 17:14:23 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:23 - SOLD 668 Shares of JPM at 66.8091
+20 Dec 2015 17:14:23 - Running BUY/SELL Transactions
+20 Dec 2015 17:14:23 - BOUGHT 863 Shares of JPM at 86.3276
+20 Dec 2015 17:14:23 - Calculating Stock Price
+20 Dec 2015 17:14:23 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 17:14:23 - Calculating Geometric Mean
+20 Dec 2015 17:14:23 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 17:14:23 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 17:14:23 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 17:14:23 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 17:14:23 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 17:14:23 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 17:14:23 - Reading array list values
+20 Dec 2015 17:14:23 - Calculating Geometric Mean
+20 Dec 2015 17:14:23 - Geometric Mean = 4.93
+20 Dec 2015 17:14:26 - ------- Job Completed -------
+20 Dec 2015 17:16:09 - ------- Job Started -------
+20 Dec 2015 17:16:09 - Checking Size of Log File
+20 Dec 2015 17:16:09 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 17:16:09 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 17:16:09 - Calculating Yields and Ratios
+20 Dec 2015 17:16:09 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 17:16:09 - Common Dividend Yield for TEA is 0
+20 Dec 2015 17:16:09 - P/E Ratio for TEA is 0
+20 Dec 2015 17:16:09 - Common Dividend Yield for POP is .1429
+20 Dec 2015 17:16:09 - P/E Ratio for POP is 7
+20 Dec 2015 17:16:09 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 17:16:09 - P/E Ratio for ALE is 8.74
+20 Dec 2015 17:16:09 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 17:16:09 - P/E Ratio for GIN is 12
+20 Dec 2015 17:16:09 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 17:16:09 - P/E Ratio for JOE is 7.77
+20 Dec 2015 17:16:09 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:09 - BOUGHT 201 Shares of JPM at 20.0786
+20 Dec 2015 17:16:09 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:09 - SOLD 396 Shares of JPM at 39.597
+20 Dec 2015 17:16:09 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:09 - BOUGHT 950 Shares of JPM at 94.996
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 340 Shares of JPM at 34.033
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 58 Shares of JPM at 5.794
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 448 Shares of JPM at 44.8309
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 393 Shares of JPM at 39.2668
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 306 Shares of JPM at 30.5463
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 337 Shares of JPM at 33.7028
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 250 Shares of JPM at 24.9822
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 445 Shares of JPM at 44.5007
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 835 Shares of JPM at 83.5377
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 389 Shares of JPM at 38.9366
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 943 Shares of JPM at 94.3356
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 139 Shares of JPM at 13.8541
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 334 Shares of JPM at 33.3726
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 887 Shares of JPM at 88.7715
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 83 Shares of JPM at 8.29
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 637 Shares of JPM at 63.689
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 832 Shares of JPM at 83.2075
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 386 Shares of JPM at 38.6064
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 581 Shares of JPM at 58.1249
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - BOUGHT 299 Shares of JPM at 29.8859
+20 Dec 2015 17:16:10 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:10 - SOLD 689 Shares of JPM at 68.9229
+20 Dec 2015 17:16:11 - Running BUY/SELL Transactions
+20 Dec 2015 17:16:11 - BOUGHT 243 Shares of JPM at 24.3218
+20 Dec 2015 17:16:11 - Calculating Stock Price
+20 Dec 2015 17:16:11 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:02:09
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:09:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:07:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:12:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:14:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:02:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:05:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:14:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:02:10
+20 Dec 2015 17:16:11 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:12:10
+20 Dec 2015 17:16:11 - Calculating Geometric Mean
+20 Dec 2015 17:16:11 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 17:16:11 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 17:16:11 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 17:16:11 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 17:16:11 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 17:16:11 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 17:16:11 - Reading array list values
+20 Dec 2015 17:16:11 - Calculating Geometric Mean
+20 Dec 2015 17:16:11 - Geometric Mean = 4.93
+20 Dec 2015 17:16:12 - ------- Job Completed -------
+20 Dec 2015 17:17:43 - ------- Job Started -------
+20 Dec 2015 17:17:43 - Checking Size of Log File
+20 Dec 2015 17:17:43 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 17:17:43 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 17:17:43 - Calculating Yields and Ratios
+20 Dec 2015 17:17:43 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 17:17:43 - Common Dividend Yield for TEA is 0
+20 Dec 2015 17:17:43 - P/E Ratio for TEA is 0
+20 Dec 2015 17:17:43 - Common Dividend Yield for POP is .1429
+20 Dec 2015 17:17:44 - P/E Ratio for POP is 7
+20 Dec 2015 17:17:44 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 17:17:44 - P/E Ratio for ALE is 8.74
+20 Dec 2015 17:17:44 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 17:17:44 - P/E Ratio for GIN is 12
+20 Dec 2015 17:17:44 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 17:17:44 - P/E Ratio for JOE is 7.77
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 312 Shares of JPM at 31.1569
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 256 Shares of JPM at 25.5928
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 973 Shares of JPM at 97.3539
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 6 Shares of JPM at 0.5103
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 559 Shares of JPM at 55.9093
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 308 Shares of JPM at 30.8267
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 862 Shares of JPM at 86.2257
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 58 Shares of JPM at 5.7442
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 611 Shares of JPM at 61.1432
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 166 Shares of JPM at 16.5421
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 361 Shares of JPM at 36.0606
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 556 Shares of JPM at 55.5791
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 751 Shares of JPM at 75.0975
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 469 Shares of JPM at 46.8586
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 664 Shares of JPM at 66.377
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 859 Shares of JPM at 85.8955
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 55 Shares of JPM at 5.414
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - SOLD 250 Shares of JPM at 24.9325
+20 Dec 2015 17:17:44 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:44 - BOUGHT 803 Shares of JPM at 80.3314
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - SOLD 998 Shares of JPM at 99.8499
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - BOUGHT 716 Shares of JPM at 71.6109
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - SOLD 911 Shares of JPM at 91.1294
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - BOUGHT 107 Shares of JPM at 10.6479
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - SOLD 660 Shares of JPM at 66.0468
+20 Dec 2015 17:17:45 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:45 - BOUGHT 855 Shares of JPM at 85.5653
+20 Dec 2015 17:17:45 - Calculating Stock Price
+20 Dec 2015 17:17:45 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 17:17:45 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:14:44
+20 Dec 2015 17:17:45 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:11:44
+20 Dec 2015 17:17:45 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:03:45
+20 Dec 2015 17:17:45 - Calculating Geometric Mean
+20 Dec 2015 17:17:45 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 17:17:45 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 17:17:45 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 17:17:45 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 17:17:45 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 17:17:45 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 17:17:45 - Reading array list values
+20 Dec 2015 17:17:45 - Calculating Geometric Mean
+20 Dec 2015 17:17:45 - Geometric Mean = 4.93
+20 Dec 2015 17:17:46 - ------- Job Completed -------
+20 Dec 2015 17:17:54 - ------- Job Started -------
+20 Dec 2015 17:17:54 - Checking Size of Log File
+20 Dec 2015 17:17:54 - D:\Development\work\SuperSimpleStocks\Logs\SuperSimpleStocks.log is (64) and does not exceed maximum size of (100000) - Continuing
+20 Dec 2015 17:17:54 - Parameter file supplied - \CsvFiles\GlobalBeverageCorporationExchange.csv - Continuing
+20 Dec 2015 17:17:54 - Calculating Yields and Ratios
+20 Dec 2015 17:17:54 - Opening file D:\Development\work\SuperSimpleStocks\\CsvFiles\GlobalBeverageCorporationExchange.csv
+20 Dec 2015 17:17:54 - Common Dividend Yield for TEA is 0
+20 Dec 2015 17:17:54 - P/E Ratio for TEA is 0
+20 Dec 2015 17:17:54 - Common Dividend Yield for POP is .1429
+20 Dec 2015 17:17:54 - P/E Ratio for POP is 7
+20 Dec 2015 17:17:54 - Common Dividend Yield for ALE is .1144
+20 Dec 2015 17:17:54 - P/E Ratio for ALE is 8.74
+20 Dec 2015 17:17:54 - Preferred Dividend Yield for GIN is 2
+20 Dec 2015 17:17:55 - P/E Ratio for GIN is 12
+20 Dec 2015 17:17:55 - Common Dividend Yield for JOE is .1287
+20 Dec 2015 17:17:55 - P/E Ratio for JOE is 7.77
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 750 Shares of JPM at 74.999
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 141 Shares of JPM at 14.0359
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 858 Shares of JPM at 85.7969
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 889 Shares of JPM at 88.9534
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 444 Shares of JPM at 44.3524
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 356 Shares of JPM at 35.6318
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 388 Shares of JPM at 38.7883
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 941 Shares of JPM at 94.1873
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 137 Shares of JPM at 13.7057
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 854 Shares of JPM at 85.4667
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 50 Shares of JPM at 4.9852
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 604 Shares of JPM at 60.3842
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 994 Shares of JPM at 99.4211
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 190 Shares of JPM at 18.9396
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 743 Shares of JPM at 74.3386
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 298 Shares of JPM at 29.7376
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 493 Shares of JPM at 49.256
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 688 Shares of JPM at 68.7745
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - BOUGHT 242 Shares of JPM at 24.1735
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:55 - SOLD 437 Shares of JPM at 43.692
+20 Dec 2015 17:17:55 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:56 - BOUGHT 155 Shares of JPM at 15.453
+20 Dec 2015 17:17:56 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:56 - SOLD 350 Shares of JPM at 34.9715
+20 Dec 2015 17:17:56 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:56 - BOUGHT 903 Shares of JPM at 90.3704
+20 Dec 2015 17:17:56 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:56 - SOLD 935 Shares of JPM at 93.5269
+20 Dec 2015 17:17:56 - Running BUY/SELL Transactions
+20 Dec 2015 17:17:56 - BOUGHT 489 Shares of JPM at 48.9259
+20 Dec 2015 17:17:56 - Calculating Stock Price
+20 Dec 2015 17:17:56 - File D:\Development\work\SuperSimpleStocks\CsvFiles\\SuperSimpleStocks.csv Found - Continuing
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:13:55
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:03:55
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:10:55
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:08:55
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:05:55
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:15:56
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:03:56
+20 Dec 2015 17:17:56 - Stock Price record selected with a Date/Time of 20 Dec 2015 17:08:56
+20 Dec 2015 17:17:56 - Calculating Geometric Mean
+20 Dec 2015 17:17:56 - File D:\Development\work\SuperSimpleStocks\\CsvFiles\Earnings.csv found - Continuing
+20 Dec 2015 17:17:56 - Added 0.03 to array list for Geometric Mean
+20 Dec 2015 17:17:56 - Added 0.05 to array list for Geometric Mean
+20 Dec 2015 17:17:56 - Added 0.08 to array list for Geometric Mean
+20 Dec 2015 17:17:56 - Added -0.01 to array list for Geometric Mean
+20 Dec 2015 17:17:56 - Added 0.1 to array list for Geometric Mean
+20 Dec 2015 17:17:56 - Reading array list values
+20 Dec 2015 17:17:56 - Calculating Geometric Mean
+20 Dec 2015 17:17:56 - Geometric Mean = 4.93
+20 Dec 2015 17:17:59 - ------- Job Completed -------
